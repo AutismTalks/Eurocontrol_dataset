@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Profile Name="Eurocontrol" FullName="Eurocat Eurocontrol (EDYY)">
+	<Version AIRAC="2009" Revision="b" PublishDate="20200905" UpdateURL="http://vatsys.sawbe.com/downloads/data/Australia" />
+	<Servers>
+		<VATSIMStatus url="http://status.vatsim.net/" />
+		<GRIB url="http://sawbe.com/GRIB/" />
+		<G2G url="antifaff.vatsys.sawbe.com" port="64738" />
+	</Servers>	
+</Profile>
