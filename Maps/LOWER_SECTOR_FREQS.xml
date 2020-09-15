@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+    <Map Type="System" Name="LOWER_SECTOR_FREQS" Priority="1">
+        <Label HasLeader="false">
+          
+        </Label>
+    </Map>
+</Maps>
