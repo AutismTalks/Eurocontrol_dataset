@@ -4,19 +4,180 @@
 
 	</SystemRunways>
 	<Airways>
-	   <Airway Name="UL610">
-		+483505.431+0133018.809/
-		+484116.000+0130432.998/
-		+484708.660+0123928.969/
-		+485308.998+0121319.999/
-		+490813.999+0112734.999/
-		+491251.739+0111317.169/
-		+492315.000+0105630.001/
-		+500400.998+0092911.000/
-		+503024.998+0064902.999/
-		+503535.001+0061417.001/
-		+503857.040+0055055.611
-		</Airway>
+<Airway Name="L620">
+	REDFA/
+	TACHA/
+	TULIP/
+	BASNO/
+	PAM VOR/
+	NYKER/
+	ELPAT/
+	ARNEM/
+	SONEB/
+	OLDOD/
+	SUVOX/
+	HMM VOR/
+	EXOBA/
+	NOMKA
+	</Airway>
+	<Airway Name="UL607">
+	KONAN/
+	KOK VOR/
+	FERDI/
+	BUPAL/
+	REMBA/
+	SPI VOR/
+	PELIX/
+	MATUG/
+	AMASI
+	</Airway>
+	<Airway Name="L179">  
+	NIK VOR/
+	SONDI/
+	ELSIK/
+	SORAT 
+	</Airway>
+	<Airway Name="L608">  
+	COA VOR/
+	DENUT/
+	BUB VOR
+	</Airway>
+	<Airway Name="L610">  
+	NIK VOR/ 
+	DENUT/
+	LUMEN/
+	BULAM/
+	DIBLI/
+	RAPIX 
+	</Airway>
+	<Airway Name="M150">  
+	KOK VOR/
+	KOMOB/
+	DIK VOR
+	</Airway>
+	<Airway Name="N852">
+	LOPIK/
+	VELED/  	
+	LUTOM/
+	BROGY/
+	TERLA
+	</Airway>	
+	<Airway Name="T859"> 
+	KOMOB/ 
+	LENDO 
+	</Airway>
+	<Airway Name="UY50">  
+	DELOM/
+	CIV VOR/
+	FERDI/
+	LUMEN/
+	COA VOR
+	</Airway>
+	<Airway Name="UY157">  
+	DINAN/
+	REMGO 
+	</Airway>
+	<Airway Name="UY873">  
+	DENUT/
+	BELOB 
+	</Airway>
+	<Airway Name="UZ711"> 
+	LIMGO/
+	PITES
+	</Airway>
+	<Airway Name="M90">
+	LONAM/
+	ODASI/
+	LEGBA/
+	BERGI 
+	</Airway>
+	<Airway Name="Z708">
+	KEKIX/
+	AGISU 
+	</Airway>
+	<Airway Name="Z733"> 
+	ANDIK/
+	UNEXO/ 
+	KONOM
+	</Airway>
+	<Airway Name="L23"> 
+	STADE/
+	WSN NDB
+	</Airway> 
+	<Airway Name="L619"> 
+	DHE VOR/
+	GOLEN/
+	OSTOR/
+	ELSOB
+	</Airway> 
+	<Airway Name="M170"> 
+	OSN VOR/
+	BASUM/
+	STADE/
+	ELSOB
+	</Airway> 
+	<Airway Name="M852"> 
+	TUGDU/
+	EKERN/
+	UMVUP/
+	ABGEB/
+	HAM VOR
+	</Airway>
+	<Airway Name="N125"> 
+	EKERN/
+	RENSU/
+	ELSOB/
+	WSN NDB/ 
+	REVLA/
+	AVESA/
+	DOTOB/
+	EMPIT/
+	DOBAK 
+	</Airway>
+	<Airway Name="P992"> 
+	BADOS/
+	ELSOB
+	</Airway>
+	<Airway Name="T463"> 
+	UCEDE/
+	GEPKO/
+	IRDIP 
+	</Airway>
+	<Airway Name="T511"> 
+	OSN VOR/
+	UMVIS 
+	</Airway>
+	<Airway Name="T903"> 
+	WSN NDB/
+	SORUN/
+	RIBSO 
+	</Airway>
+	<Airway Name="T907"> 
+	REVLA/
+	SORUN 
+	</Airway>
+	<Airway Name="UZ706">
+	MOBSA/
+	ENUGA/
+	KEGAB 
+	</Airway>
+	<Airway Name="Y347"> 
+	OBIBI/
+	RORUS/
+	VAXEV 
+	</Airway>
+	<Airway Name="Y850"> 
+	ARTER/
+	BASUM 
+	</Airway>
+	<Airway Name="Z78"> 
+	BASUM/
+	WSN NDB
+	</Airway> 
+	<Airway Name="Z612"> 
+	RORAN/ 
+	WSN NDB 
+	</Airway>
 
 	</Airways>	
 	<Intersections>
@@ -253,7 +414,7 @@
 	<Point Name="MILGI" Type="Fix">+511149.200+0060730.000</Point>
 	<Point Name="MIMVA" Type="Fix">+530602.998+0031812.999</Point>
 	<Point Name="MISGO" Type="Fix">+512416.999+0065232.998</Point>
-	<Point Name="MISRI" Type="Fix">+515635.9980+072853.000</Point>
+	<Point Name="MISRI" Type="Fix">+515635.998+0072853.000</Point>
 	<Point Name="MOBSA" Type="Fix">+521223.000+0082657.998</Point>
 	<Point Name="MODRU" Type="Fix">+510102.960+0060524.280</Point>
 	<Point Name="MOKOM" Type="Fix">+495842.999+0060959.000</Point>

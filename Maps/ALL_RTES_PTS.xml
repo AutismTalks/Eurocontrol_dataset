@@ -1,36 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Maps>
   <Map Type="System" Name="ALL_ROUTES_HIGH" Priority="1" Center="">
-   <Line Name="L179_0">NIK VOR.L179.SORAT</Line>
-   <Line Name="L608_0">COA VOR.L608.BUB VOR</Line>
-   <Line Name="L610_0">NIK VOR.L610.RAPIX</Line>
-   <Line Name="M150_0">KOK VOR.M150.DIK VOR</Line>
-   <Line Name="N852_0">LUTOM.N852.TERLA</Line>
-   <Line Name="T859_0">KOMOB.T859.LENDO</Line>
-   <Line Name="UY50_0">DELOM.UY50.COA VOR</Line>
-   <Line Name="UY157_0">DINAN.UY157.REMGO</Line>
-   <Line Name="UY873_0">DENUT.UY873.BELOB</Line>
-   <Line Name="UZ711_0">LIMGO.UZ711.PITES</Line>
-   <Line Name="L608_0">DENUT.L608.COA VOR</Line>
-   <Line Name="M90_0">LONAM.M90.BERGI</Line>
-   <Line Name="N852_0">LUTOM.N852.LOPIK</Line>
-   <Line Name="Z708_0">KEKIX.Z708.AGISU</Line>
-   <Line Name="Z733_0">ANDIK.Z733.KONOM</Line>
-   <Line Name="L23_0">STADE.L23.WSN NDB</Line>
-   <Line Name="L619_0">DHE VOR..ELSOB</Line>
-   <Line Name="M170_0">OSN VOR..ELSOB</Line>
-   <Line Name="M852_0">TUGDU.M852.HAM VOR</Line>
-   <Line Name="N125_0">EKERN.N125.DOBAK</Line>
-   <Line Name="P992_0">BADOS.P992.ELSOB</Line>
-   <Line Name="T463_0">UCEDE.T463.IRDIP</Line>
-   <Line Name="T511_0">OSN VOR.T511.UMVIS</Line>
-   <Line Name="T903_0">WSN NDB.T903.RIBSO</Line>
-   <Line Name="T907_0">REVLA.T907.SORUN</Line>
-   <Line Name="UZ706_0">MOBSA.UZ706.KEGAB</Line>
-   <Line Name="Y347_0">OBIBI.Y347.VAXEV</Line>
-   <Line Name="Y850_0">ARTER.Y850.BASUM</Line>
-   <Line Name="Z78_0">BASUM.Z78.WSN NDB</Line>
-   <Line Name="Z612_0">RORAN.Z612.WSN NDB</Line>
+   <Line Name="L620">REDFA.L620.NOMKA</Line>
+   <Line Name="L179_0" Pattern="Broken">NIK VOR.L179.SORAT</Line>
+   <Line Name="L608_0" Pattern="Broken">COA VOR.L608.BUB VOR</Line>
+   <Line Name="L610_0" Pattern="Broken">NIK VOR.L610.RAPIX</Line>
+   <Line Name="M150_0" Pattern="Broken">KOK VOR.M150.DIK VOR</Line>
+   <Line Name="N852_0" Pattern="Broken">LUTOM.N852.TERLA</Line>
+   <Line Name="T859_0" Pattern="Broken">KOMOB.T859.LENDO</Line>
+   <Line Name="UY50_0" Pattern="Broken">DELOM.UY50.COA VOR</Line>
+   <Line Name="UY157_0" Pattern="Broken">DINAN.UY157.REMGO</Line>
+   <Line Name="UY873_0" Pattern="Broken">DENUT.UY873.BELOB</Line>
+   <Line Name="UZ711_0" Pattern="Broken">LIMGO.UZ711.PITES</Line>
+   <Line Name="L608_0" Pattern="Broken">DENUT.L608.COA VOR</Line>
+   <Line Name="M90_0" Pattern="Broken">LONAM.M90.BERGI</Line>
+   <Line Name="N852_0" Pattern="Broken">LUTOM.N852.LOPIK</Line>
+   <Line Name="Z708_0" Pattern="Broken">KEKIX.Z708.AGISU</Line>
+   <Line Name="Z733_0" Pattern="Broken">ANDIK.Z733.KONOM</Line>
+   <Line Name="L23_0" Pattern="Broken">STADE.L23.WSN NDB</Line>
+   <Line Name="L619_0" Pattern="Broken">DHE VOR.L619.ELSOB</Line>
+   <Line Name="M170_0" Pattern="Broken">OSN VOR.M170.ELSOB</Line>
+   <Line Name="M852_0" Pattern="Broken">TUGDU.M852.HAM VOR</Line>
+   <Line Name="N125_0" Pattern="Broken">EKERN.N125.DOBAK</Line>
+   <Line Name="P992_0" Pattern="Broken">BADOS.P992.ELSOB</Line>
+   <Line Name="T463_0" Pattern="Broken">UCEDE.T463.IRDIP</Line>
+   <Line Name="T511_0" Pattern="Broken">OSN VOR.T511.UMVIS</Line>
+   <Line Name="T903_0" Pattern="Broken">WSN NDB.T903.RIBSO</Line>
+   <Line Name="T907_0" Pattern="Broken">REVLA.T907.SORUN</Line>
+   <Line Name="UZ706_0" Pattern="Broken">MOBSA.UZ706.KEGAB</Line>
+   <Line Name="Y347_0" Pattern="Broken">OBIBI.Y347.VAXEV</Line>
+   <Line Name="Y850_0" Pattern="Broken">ARTER.Y850.BASUM</Line>
+   <Line Name="Z78_0" Pattern="Broken">BASUM.Z78.WSN NDB</Line>
+   <Line Name="Z612_0" Pattern="Broken">RORAN.Z612.WSN NDB</Line>
    
     <Symbol Type="SolidSquare">
      

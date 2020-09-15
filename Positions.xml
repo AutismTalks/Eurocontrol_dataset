@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Position Name="OBSERVER" Type="ASD" DefaultRange="1000">
+  <Position Name="OBSERVER" Type="ASD" DefaultCenter="+520759.509+0064549.960" DefaultRange="1000">
   <Sectors>
       <Sector Name="YDL" />
 	  <Sector Name="YJL" />
@@ -32,8 +32,7 @@
       <Line></Line>
     </ControllerInfo>
   </Position>
-  
-  <Position Name="DELTA" Type="ASD" DefaultRange="1000">
+  <Position Name="DELTA" Type="ASD" DefaultCenter="" DefaultRange="1000">
   <Sectors>
       <Sector Name="YDL" />
     </Sectors>
@@ -55,8 +54,7 @@
       <Line>DELTA sector</Line>
     </ControllerInfo>
   </Position>
- 
-    <Position Name="JEVER" Type="ASD" DefaultRange="1000">
+  <Position Name="JEVER" Type="ASD" DefaultCenter="+535254.001+0063000.000" DefaultRange="1000">
 	<Sectors>
       <Sector Name="YJL" />
     </Sectors>
@@ -78,7 +76,7 @@
       <Line>JEVER sector</Line>
     </ControllerInfo>
   </Position>
-    <Position Name="HOLSTEIN" Type="ASD" DefaultRange="1000">
+  <Position Name="HOLSTEIN" Type="ASD" DefaultCenter="" DefaultRange="1000">
   <Sectors>
       <Sector Name="YHL" />
     </Sectors>
@@ -100,7 +98,7 @@
       <Line>HOLSTEIN sector</Line>
     </ControllerInfo>
   </Position>
-    <Position Name="CELLE" Type="ASD" DefaultRange="1000">
+  <Position Name="CELLE" Type="ASD" DefaultCenter="" DefaultRange="1000">
   <Sectors>
       <Sector Name="YCL" />
     </Sectors>
@@ -122,8 +120,7 @@
       <Line>CELLE sector</Line>
     </ControllerInfo>
   </Position>  
-
-    <Position Name="SOLLING" Type="ASD" DefaultRange="1000">
+  <Position Name="SOLLING" Type="ASD" DefaultCenter="" DefaultRange="1000">
   <Sectors>
       <Sector Name="YSL" />
     </Sectors>
@@ -145,8 +142,7 @@
       <Line>SOLLING sector</Line>
     </ControllerInfo>
   </Position>
-
-    <Position Name="MUENSTER" Type="ASD" DefaultRange="1000">
+  <Position Name="MUENSTER" Type="ASD" DefaultCenter="" DefaultRange="1000">
   <Sectors>
       <Sector Name="YML" />
     </Sectors>
@@ -168,8 +164,7 @@
       <Line>MUENSTER sector</Line>
     </ControllerInfo>
   </Position>
-
-    <Position Name="RUHR" Type="ASD" DefaultRange="1000">
+  <Position Name="RUHR" Type="ASD" DefaultCenter="" DefaultRange="1000">
   <Sectors>
       <Sector Name="YRL" />
     </Sectors>
@@ -191,8 +186,7 @@
       <Line>RUHR sector</Line>
     </ControllerInfo>
   </Position>
-
-    <Position Name="OLNO" Type="ASD" DefaultRange="1000">
+  <Position Name="OLNO" Type="ASD" DefaultCenter="+503509.290+0054236.990" DefaultRange="1000">
   <Sectors>
       <Sector Name="YOL" />
     </Sectors>
@@ -214,8 +208,7 @@
       <Line>OLNO sector</Line>
     </ControllerInfo>
   </Position>
-
-    <Position Name="LUX" Type="ASD" DefaultRange="1000">
+  <Position Name="LUX" Type="ASD" DefaultCenter="" DefaultRange="1000">
   <Sectors>
       <Sector Name="YLL" />
     </Sectors>
@@ -237,8 +230,7 @@
       <Line>LUX sector</Line>
     </ControllerInfo>
   </Position>
-
-    <Position Name="NICKY" Type="ASD" DefaultRange="1000">
+  <Position Name="NICKY" Type="ASD" DefaultCenter="+505408.398+0043217.098" DefaultRange="1000">
   <Sectors>
       <Sector Name="YNL" />
     </Sectors>
@@ -260,8 +252,7 @@
       <Line>NICKY sector</Line>
     </ControllerInfo>
   </Position>
-
-    <Position Name="KOKSY" Type="ASD" DefaultRange="1000">
+  <Position Name="KOKSY" Type="ASD" DefaultCenter="+510556.421+0023919.479" DefaultRange="1000">
   <Sectors>
       <Sector Name="YKL" />
     </Sectors>
