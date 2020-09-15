@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="ENR_LL_LABELS" Priority="2" Center="">
+    <Label HasLeader="False" Alignment="Center" VerticalAlignment="Middle">
+      
+    </Label>
+  </Map>
+</Maps>
